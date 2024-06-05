@@ -1,0 +1,3 @@
+Data from: Single subject - s001.mat
+Electrodes tested: elec_to_keep = ['FP1', 'FP2', 'F3', 'FZ', 'F4', 'T7', 'Cz', 'T8', 'P7', 'P8', 'O1', 'Oz', 'O2']
+Time window: 0-600 ms
