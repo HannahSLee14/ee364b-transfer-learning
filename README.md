@@ -2,6 +2,7 @@
 
 ## Data
 Data is obtained from: Won, K., Kwon, M., Ahn, M. et al. EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces. Sci Data 9, 388 (2022). https://doi.org/10.1038/s41597-022-01509-w. 
+Subjects used for analysis are: s01, s25, s38, s52, and s54.
 
 ## Preprocessing
 Some of the preprocessing steps are taken directly from the original paper with the data: https://github.com/Kyungho-Won/EEG-dataset-for-RSVP-P300-speller. 
